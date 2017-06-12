@@ -1,5 +1,5 @@
 # Univariate-Linear-Regression
-Univariate Linear Regression using Python3 
+Univariate Linear Regression using Gradient descent
 
 ## Dataset Description:
 ### URL: 

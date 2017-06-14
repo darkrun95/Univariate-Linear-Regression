@@ -13,4 +13,4 @@ This dataset contains house sale prices for King County, which includes Seattle.
 
 ### Plots for different training iterations
 #### Training iterations: 100
-![100 iterations] 100_iterations.png
+![100 iterations](100_iterations.png)
